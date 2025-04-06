@@ -1,0 +1,14 @@
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.AssemblyInfoInputs.cache
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.AssemblyInfo.cs
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.csproj.CoreCompileInputs.cache
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\bin\Debug\net9.0\EJERCICIO1.exe
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\bin\Debug\net9.0\EJERCICIO1.deps.json
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\bin\Debug\net9.0\EJERCICIO1.runtimeconfig.json
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\bin\Debug\net9.0\EJERCICIO1.dll
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\bin\Debug\net9.0\EJERCICIO1.pdb
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.dll
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\refint\EJERCICIO1.dll
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.pdb
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\EJERCICIO1.genruntimeconfig.cache
+C:\Users\janth\OneDrive\Repos\FUNALG\DOMINGOS\SEMANA1\TAREA\EJERCICIO1\obj\Debug\net9.0\ref\EJERCICIO1.dll
